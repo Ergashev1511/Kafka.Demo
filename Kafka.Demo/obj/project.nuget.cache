@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+cUHCQVY4c=",
+  "success": true,
+  "projectFilePath": "/home/t_ergashev/projects/Kafka.Demo/Kafka.Demo/Kafka.Demo.csproj",
+  "expectedPackageFiles": [
+    "/home/t_ergashev/.nuget/packages/confluent.kafka/2.15.0/confluent.kafka.2.15.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/librdkafka.redist/2.15.0/librdkafka.redist.2.15.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.aspnetcore.openapi/8.0.29/microsoft.aspnetcore.openapi.8.0.29.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.diagnostics.abstractions/8.0.1/microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.hosting.abstractions/8.0.1/microsoft.extensions.hosting.abstractions.8.0.1.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.netcore.app.ref/8.0.24/microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.24/microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "/home/t_ergashev/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.24/microsoft.netcore.app.host.linux-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

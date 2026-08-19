@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Beepul.Afs.Kafka</name>
+    </assembly>
+    <members>
+        <member name="M:Beepul.Afs.Kafka.Abstractions.IBatchEventHandler`1.HandleAsync(System.Collections.Generic.IReadOnlyList{Beepul.Afs.Kafka.Abstractions.KafkaEvent{`0}},System.Threading.CancellationToken)">
+            <summary>
+            Handles a batch atomically from Kafka's point of view. Offsets are committed
+            only after this method completes successfully.
+            Implementations must be idempotent by <see cref="P:Beepul.Afs.Kafka.Abstractions.KafkaEvent`1.EventId"/>.
+            </summary>
+        </member>
+        <member name="T:Beepul.Afs.Kafka.Abstractions.KafkaEvent`1">
+            <summary>
+            Transport envelope shared by every event published through Kafka.
+            </summary>
+        </member>
+        <member name="T:Beepul.Afs.Kafka.Abstractions.PermanentException">
+            <summary>
+            Signals that retrying the same event batch cannot succeed without changing its data.
+            Permanent failures are routed to the configured dead-letter topic.
+            </summary>
+        </member>
+        <member name="P:Beepul.Afs.Kafka.Options.KafkaConsumerOptions.MaxRetryAttempts">
+            <summary>Zero means unlimited retries. Transient failures are never committed.</summary>
+        </member>
+    </members>
+</doc>
